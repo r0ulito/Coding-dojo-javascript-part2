@@ -4,8 +4,8 @@ Le but de ce cet entrainement est de consolider vos connaissances sur les foncti
 
 Atelier | Pour commencer l'exercice | Pour voir la solution
 ----------------------|---------------------------|----------------------
-[Factorial]()|git checkout -f step-1|git checkout step-1-solution
-[Fibonacci]()|git checkout -f step-2|git checkout step-2-solution
+[Factorial](https://github.com/r0ulito/Coding-dojo-javascript-part2/tree/step-1)|git checkout -f step-1|git checkout step-1-solution
+[Fibonacci](https://github.com/r0ulito/Coding-dojo-javascript-part2/tree/step-2)|git checkout -f step-2|git checkout step-2-solution
 
 ### Mise en place
 
